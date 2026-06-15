@@ -4,7 +4,7 @@ A modern, responsive, and interactive personal portfolio website built using HTM
 
 ## 🌟 Live Demo
 
-🔗 Add your GitHub Pages Link Here
+🔗 https://frontend-portfolio-project.netlify.app/ 
 
 ---
 
@@ -112,10 +112,6 @@ portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
 ```
 
 ---
@@ -125,13 +121,13 @@ portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+gh repo clone abhishekgautam37/frontend-portfolio-project
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd your-repository-name
+cd frontend-portfolio-project
 ```
 
 Open `index.html` in your browser.
